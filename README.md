@@ -1,2 +1,8 @@
 # adviser-model
  Data exploration is an artful process of sifting over through the dataset and extracting meaningful insights from it. In a machine learning process, the data understanding phase consumes most of the time, making it a major bottleneck for many applications and Automated Machine Learning (Auto ML) platforms. Data exploration is hard as we do not always know what we are looking for. Existing data exploration methods involve several hit-and-trial operations expecting loads of manual expertise skills. This leaves the doors closed for small enterprises with a limited budget, for beginners, students who are new to the field of data science and even some experienced data scientists who do not have time. This problem causes the consumption of a lot of time and tedious effort. In this research, we aim to solve this problem by developing a model that can automatically explore and find meaningful insights for any given input dataset. The model reports the important details about the dataset, suggests the features that have the possibility of being predicted and also suggests the optimal number of clusters with which the dataset can be clustered. Users can simply upload their dataset and wait for the model to take care of the data exploration tasks. Eventually, a report about the dataset will be submitted to the user by the model.
+
+This model is the research work done by the Authors of the following papers.
+It would be really kind if you cite the following papers if you are using this model:
+1. https://ieeexplore.ieee.org/document/9268381
+2. http://sersc.org/journals/index.php/IJAST/article/view/6552
+3. https://ieeexplore.ieee.org/abstract/document/8929977
